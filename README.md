@@ -1,5 +1,5 @@
 Sample of Slack notifications integration
-=========================================
+========================================= 
 
 This sample demonstrates how to add Slack build notifications to a Rails+Postgres application.
 
